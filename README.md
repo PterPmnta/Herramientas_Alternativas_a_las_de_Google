@@ -2,14 +2,12 @@
 
 ### Repositorio para conocer herramientas alternativas a las de google
 
-La plataforma de google a dia de hoy se a consolidado como un referente los cuales cualquier empresa tecnologica 
-en la actualidad busca alcanza, ya sea imitando o creando servicios muy a a par pudiendo estar como una alternativa fuerte, 
-buscando arracanle un pedazo d la torta de clientes que esta gran empresa posee en todas sus plataforma.
-Debido a que con el tiempo han crecido y comprendido que entre mas servicios de muy buena calidad pesten, 
-a su vez permite ser un enganche para que estos usen otros que puedan ser necesarios.
 
-A continuacion estara una lista hecha para dar a conocer las herramientas alternativas a las de google
-como lo son correo, calendario, suite office, almacenamiento en la nube, servicios streaming, videos, musica.
+La plataforma de google a día de hoy se ha consolidado como un referente los cuales cualquier empresa tecnológica en la actualidad busca alcanza, ya sea imitando o creando servicios muy a a par pudiendo estar como una alternativa fuerte, buscando arráncale un pedazo d la torta de clientes que esta gran empresa posee en todas sus plataforma.
+
+Debido a que con el tiempo han crecido y comprendido que entre más servicios de muy buena calidad presten, a su vez permite ser un enganche para que estos usen otros que puedan ser necesarios.
+
+A continuación estará una lista hecha para dar a conocer las herramientas alternativas a las de google como lo son correo, calendario, suite office, almacenamiento en la nube, servicios streaming, videos, música.
 
 
 ## Correo
@@ -62,7 +60,7 @@ como lo son correo, calendario, suite office, almacenamiento en la nube, servici
 
 ### Google
 
-- Twitch
+- Youtube Gaming
 
 ### Servicios alternativos 
 
@@ -70,6 +68,7 @@ como lo son correo, calendario, suite office, almacenamiento en la nube, servici
 - Smashcast.tv
 - Mixer
 - Periscope
+- Twitch
 
 
 ## Suite office
